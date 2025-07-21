@@ -7,7 +7,7 @@ Esse projeto tem como foco detectar sinais da Língua Brasileira de Sinais (LIBR
 Utilizei:
 - 🐍 **Python**
 - 👁️ **OpenCV**
-- 🚀 **YOLO** (You Only Look Once)
+- 🚀 **YOLO** 
 - 🔧 **Ultralytics** para facilitar o uso do modelo de detecção
 
 ---
