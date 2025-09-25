@@ -1,5 +1,3 @@
-# DETECTOR DE LIBRAS!! Esse projeto tem o foco em detectar as libras (linguas brasileira de sinais) e fiz isso para treinar a minha maquina também para apresentar e aprender mais sobre machine learning. Utilizei PYTHON, OpenCv, YOLO e ultralytics. Fiquei muito alegre com o resultado!!
-
 # ✋ DETECTOR DE LIBRAS
 
 Esse projeto tem como foco detectar sinais da Língua Brasileira de Sinais (LIBRAS) utilizando visão computacional. Foi criado como parte dos meus estudos em **Machine Learning**, onde consegui treinar minha própria máquina com sucesso! Fiquei muito feliz com o resultado. 🤖✨
