@@ -29,6 +29,13 @@ Essas imagens representam no incio onde eu mesmo programei os pontos dos dedos p
 
 ### Funcionamento e Imports
 
+*Requirements** 
+
+```
+  pip install -r requirements.txt
+
+```
+
 **Imports**
 
 ```
