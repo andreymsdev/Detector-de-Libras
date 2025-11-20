@@ -9,7 +9,7 @@ Esse projeto tem como foco detectar sinais da Língua Brasileira de Sinais (**LI
 Essas imagens representam no incio onde eu mesmo programei os pontos dos dedos para fazer a letra A e o "eu te amo" e funcionou como deveria.
 
 <p align="left">
-  <img src="images/A.png" alt="Letra A" width="250"/>
+  <img src="images/a.png" alt="Letra A" width="250"/>
   <img src="images/euteamo.png" alt="EU TE AMO" width="250"/>
 </p>
 
